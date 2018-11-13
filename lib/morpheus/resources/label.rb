@@ -11,7 +11,7 @@ module Morpheus
         {
           id: id,
           name: 'premium',
-          kind: 'premium'
+          color: 'green'
         }
       end
     end
